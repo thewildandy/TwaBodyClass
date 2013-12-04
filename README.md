@@ -1,7 +1,7 @@
 TwaBodyClass
 ============
 
-Provides tools for adding classes to the body element from various places within an application.
+A ZF2 module providing tools for adding classes to the body element from various places within an application.
 
 To Do
 -----
